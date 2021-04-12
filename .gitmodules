@@ -23,3 +23,6 @@ path = ocaml-lsp-server/vendor/omd
 url = https://github.com/ulugbekna/omd.git
 branch = ocaml-lsp
 ignore = dirty
+[submodule "ocaml-lsp-server/vendor/mtt-lang"]
+path = ocaml-lsp-server/vendor/mtt-lang
+url = https://github.com/mtt-lang/mtt-lang
